@@ -92,7 +92,7 @@ lengkap & rekomendasi strategis: [`docs/business_recommendation.md`](docs/busine
 
 **Alvin Arya Pangestu**
 Fresh Graduate — Informatika, Universitas Darussalam Gontor
-[LinkedIn](www.linkedin.com/in/alvinaryapangestu) 
+[LinkedIn](https://www.linkedin.com/in/alvinaryapangestu) 
 
 ---
 *Project ini dibuat sebagai bagian dari Virtual Internship Experience (VIX)
