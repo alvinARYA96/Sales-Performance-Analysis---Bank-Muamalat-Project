@@ -16,4 +16,4 @@
 
 ## Screenshot
 
-> ![Dashboard](docs/screenshots/sales performance dashboard.png)
+> ![Dashboard](https://github.com/alvinaryapangestu/Sales-Performance-Analysis---Bank-Muamalat-Project/blob/c0eb7a195405f68193a1d86603da2ac38b88f812/docs/screenshots/sales%20performance%20dashboard.png)
