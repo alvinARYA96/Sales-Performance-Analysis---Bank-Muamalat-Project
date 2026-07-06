@@ -4,7 +4,7 @@
 
 | Metrik | Nilai |
 |---|---|
-| Total Sales | **Rp 1.754.750,57** (dalam satuan mata uang dataset) |
+| Total Sales | **Rp 1.754.751**  |
 | Total Qty Terjual | **11.654 unit** |
 | Jumlah Kategori Produk | 7 kategori |
 | Jumlah Kota Pelanggan | 361 kota |
@@ -63,6 +63,5 @@ Dengan 7 kategori produk yang kontribusinya cukup bervariasi, ada peluang untuk:
 
 Rekomendasi di atas berbasis data transaksi historis (Orders, Customers, Products,
 ProductCategory) tanpa data biaya (cost of goods), margin, maupun data perilaku
-pelanggan dari waktu ke waktu (retensi/churn). Untuk keputusan bisnis yang lebih
-tajam, disarankan melengkapi dengan data tersebut di iterasi analisis berikutnya.
+pelanggan dari waktu ke waktu (retensi/churn).
 
